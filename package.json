@@ -16,7 +16,7 @@
     "build": "NODE_ENV=production webpack --devtool false --config webpack/webpack.prod.config.js"
   },
   "dependencies": {
-    "@uirouter/angularjs": "^1.0.20",
+    "@uirouter/angularjs": "^1.0.30",
     "@uirouter/sticky-states": "^1.5.0",
     "angular": "^1.7.9",
     "angular-animate": "^1.7.9",
